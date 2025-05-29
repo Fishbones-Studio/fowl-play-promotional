@@ -6,11 +6,12 @@
   --dark-silver: #797062;
   --gunmetal: #282B38;
   --independence: #485266;
+  --dark-purple: #130c1e;
 
   /* Semantic variables */
   --primary-color: var(--white-chocolate);
   --secondary-color: var(--shadow);
-  --dark-bg: var(--gunmetal);
+  --dark-bg: var(--dark-purple);
   --darker-bg: #1a1d26;
   --light-text: var(--white-chocolate);
   --dark-text: var(--gunmetal);
