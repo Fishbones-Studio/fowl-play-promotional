@@ -30,8 +30,8 @@
 
 @font-face {
   font-family: 'FrostScream';
-  src: url('src/assets/fonts/frost_scream-webfont.woff2') format('woff2'),
-  url('src/assets/fonts/frost_scream-webfont.woff') format('woff');
+  src: url('../public/assets/fonts/frost_scream-webfont.woff2') format('woff2'),
+  url('../public/assets/fonts/frost_scream-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
