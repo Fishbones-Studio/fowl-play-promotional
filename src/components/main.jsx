@@ -1,13 +1,13 @@
 import { useState, useRef } from 'react';
 import gameArt from '../assets/square fowlplay.png';
-import screenshot1 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.23.32.71.png';
-import screenshot2 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.23.40.72.png';
-import screenshot3 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.25.31.00.png';
-import screenshot4 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.25.50.56.png';
-import screenshot5 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.26.02.53.png';
-import screenshot6 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.26.12.05.png';
-import screenshot7 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.26.53.87.png';
-import screenshot8 from '../assets/screenshots/Fowl-play-0.0.2-windows Screenshot 2025.05.29 - 22.29.06.45.png';
+import screenshot1 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.53.09.96.png';
+import screenshot2 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.53.42.76.png';
+import screenshot3 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.53.47.29.png';
+import screenshot4 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.54.41.05.png';
+import screenshot5 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.56.28.96.png';
+import screenshot6 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.56.38.80.png';
+import screenshot7 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.57.11.39.png';
+import screenshot8 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.57.41.49.png';
 
 function Main() {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
