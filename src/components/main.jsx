@@ -78,7 +78,7 @@ function Main() {
                     <div className="hero-text">
                         <h2>Enter the Underground Chicken Fight Arenas</h2>
                         <p className="tagline">A brutal roguelike brawler where you train, upgrade, and fight
-                            mutated chickens in illegal underground arenas</p>
+                            mutated chickens in illegal underground arenas.</p>
                         <div className="cta-buttons-headers">
                             <a
                                 href="https://studio-fishbones.itch.io/fowl-play"
@@ -253,7 +253,7 @@ function Main() {
                         Play on Itch.io
                     </a>
                     <a
-                        href="https://www.youtube.com/channel/UCHuoUuX4QLNywVWbs_sDbJQ"
+                        href="https://www.youtube.com/@FowlPlayHHS"
                         className="btn btn-secondary"
                         target="_blank"
                         rel="noopener noreferrer"
