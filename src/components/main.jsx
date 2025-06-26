@@ -3,11 +3,12 @@ import gameArt from '../assets/square fowlplay.png';
 import screenshot1 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.53.09.96.png';
 import screenshot2 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.53.42.76.png';
 import screenshot3 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.53.47.29.png';
-import screenshot4 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.54.41.05.png';
-import screenshot5 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.56.28.96.png';
-import screenshot6 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.56.38.80.png';
-import screenshot7 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.57.11.39.png';
-import screenshot8 from '../assets/screenshots/Fowl Play Windows - 0.0.91 Screenshot 2025.06.24 - 19.57.41.49.png';
+import screenshot4 from '../assets/screenshots/Godot Engine Screenshot 2025.06.26 - 14.43.42.35.png';
+import screenshot5 from '../assets/screenshots/Godot Engine Screenshot 2025.06.26 - 14.48.52.95.png';
+import screenshot6 from '../assets/screenshots/Godot Engine Screenshot 2025.06.26 - 14.49.34.65.png';
+import screenshot7 from '../assets/screenshots/Kouhie - test3 [SBFnGujtQhA - 853x480 - 0m29s].png';
+import screenshot8 from '../assets/screenshots/Kouhie - test3 [SBFnGujtQhA - 853x480 - 0m33s].png';
+import screenshot9 from '../assets/screenshots/Kouhie - test3 [SBFnGujtQhA - 853x480 - 0m41s].png';
 
 function Main() {
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -23,7 +24,8 @@ function Main() {
         { src: screenshot5, alt: "Gameplay screenshot 5" },
         { src: screenshot6, alt: "Gameplay screenshot 6" },
         { src: screenshot7, alt: "Gameplay screenshot 7" },
-        { src: screenshot8, alt: "Gameplay screenshot 8" }
+        { src: screenshot8, alt: "Gameplay screenshot 8" },
+        { src: screenshot9, alt: "Gameplay screenshot 9" }
     ];
 
     const handleMouseMove = (e) => {
